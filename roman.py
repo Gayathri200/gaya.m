@@ -1,0 +1,41 @@
+t=input()
+if(t=="I"):
+  print("1")
+elif(t=="II"):
+  print("2")  
+elif(t=="III"):
+  print("3")
+elif(t=="IV"):
+  print("4")
+elif(t=="V"):
+  print("5")
+elif(t=="VI"):
+  print("6")   
+elif(t=="VII"):
+  print("7")
+elif(t=="VIII"):
+  print("8")
+elif(t=="IX"):
+  print("9")
+elif(t=="X"):
+  print("10")   
+elif(t=="XI"):
+  print("11")  
+elif(t=="XII"):
+  print("12")
+elif(t=="XIII"):
+  print("13")
+elif(t=="XIV"):
+  print("14")
+elif(t=="xV"):
+  print("15")   
+elif(t=="XVI"):
+  print("16")
+elif(t=="XVII"):
+  print("17")
+elif(t=="XVIII"):
+  print("18")
+elif(t=="XIX"):
+  print("19") 
+elif(t=="XX"):
+  print("19")                                
