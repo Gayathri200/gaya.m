@@ -1,0 +1,19 @@
+i=int(input())
+n=input()
+a=len(n)
+if(a==i):
+  while(a>0):
+    a=a-1
+    f=n[a]
+    if(f=="a"):
+      print(f.replace("a",""),end="")
+    elif(f=="e"):
+      print(f.replace("e",""),end="")
+    elif(f=="i"):
+      print(f.replace("i",""),end="") 
+    elif(f=="o"):
+      print(f.replace("o",""),end="") 
+    elif(f=="u"):
+      print(f.replace("u",""),end="")    
+    else:
+      print(f,end="")    
